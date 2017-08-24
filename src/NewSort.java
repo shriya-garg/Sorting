@@ -28,6 +28,7 @@ public class NewSort {
 			NewSort nb = new NewSort();
 			nb.selectionSort(arr,6);
 			
+			
 			}
 		}
 	
